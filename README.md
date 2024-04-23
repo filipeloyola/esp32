@@ -1,5 +1,5 @@
 # esp32
-Exemplos Básicos para ESP32 com IDE Arduino
+Basic example for ESP32 with Arduino IDE 
 
-Arquivos:
+File:
 - Bluetooth_example.aia (MIT APP Inventor)
